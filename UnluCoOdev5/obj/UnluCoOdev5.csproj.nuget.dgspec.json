@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\malio\\Desktop\\UnluCoWeek5\\UnluCoWeek5\\UnluCoWeek5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\malio\\Desktop\\UnluCoWeek5\\UnluCoWeek5\\UnluCoWeek5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\malio\\Desktop\\UnluCoWeek5\\UnluCoWeek5\\UnluCoWeek5.csproj",
+        "projectName": "UnluCoWeek5",
+        "projectPath": "C:\\Users\\malio\\Desktop\\UnluCoWeek5\\UnluCoWeek5\\UnluCoWeek5.csproj",
+        "packagesPath": "C:\\Users\\malio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malio\\Desktop\\UnluCoWeek5\\UnluCoWeek5\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\malio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Gridify.EntityFramework": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "LightQuery": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "LightQuery.Client": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "LightQuery.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.VisualStudio.Services.Client": {
+              "target": "Package",
+              "version": "[16.170.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Orc.Search": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SSPLibrary": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "ServiceStack.Interfaces": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "ServiceStack.Redis": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Sieve": {
+              "target": "Package",
+              "version": "[2.5.4, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "redis-64": {
+              "target": "Package",
+              "version": "[3.0.501, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
