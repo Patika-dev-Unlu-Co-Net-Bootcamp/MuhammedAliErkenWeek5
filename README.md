@@ -1,6 +1,5 @@
 # MuhammedAliErkenWeek5
- Yeni bir api üzerinde çalışmaya başlamıştım ödev belli olmadan önce. Bu yüzden ödevi bunun üzerinde yaptım.(Token,Migration,Middleware,Result Filter vs. ekli)
-- Veriler sql'den çekildi.
+
 - Filtreleme için: localhost:5000/api/members/all?card=jcb
 - Listeleme için: localhost:5000/api/members/all?sort=lastname&dir=asc
 - Arama için: localhost:5000/api/members/all?search=alicia
